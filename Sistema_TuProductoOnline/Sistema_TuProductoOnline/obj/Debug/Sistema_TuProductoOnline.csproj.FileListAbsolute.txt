@@ -1,0 +1,8 @@
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Sistema_TuProductoOnline\Sistema_TuProductoOnline\bin\Debug\Sistema_TuProductoOnline.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Sistema_TuProductoOnline\Sistema_TuProductoOnline\bin\Debug\Sistema_TuProductoOnline.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Sistema_TuProductoOnline\Sistema_TuProductoOnline\bin\Debug\Sistema_TuProductoOnline.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Sistema_TuProductoOnline\Sistema_TuProductoOnline\obj\Debug\Sistema_TuProductoOnline.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Sistema_TuProductoOnline\Sistema_TuProductoOnline\obj\Debug\Sistema_TuProductoOnline.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Sistema_TuProductoOnline\Sistema_TuProductoOnline\obj\Debug\Sistema_TuProductoOnline.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Sistema_TuProductoOnline\Sistema_TuProductoOnline\obj\Debug\Sistema_TuProductoOnline.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Sistema_TuProductoOnline\Sistema_TuProductoOnline\obj\Debug\Sistema_TuProductoOnline.pdb
